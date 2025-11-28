@@ -1,5 +1,8 @@
-## Hi there 👋
+## Heyy 👋
 
+I'm Andrei, AI/ML Engineer and Data Scientist.
+
+Find more info about me on [https://andreibeliaev.github.io/](https://andreibeliaev.github.io/) 🤓
 <!--
 **andreibeliaev/andreibeliaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
