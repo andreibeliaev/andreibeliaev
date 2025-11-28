@@ -1,4 +1,4 @@
-## Heyy 👋
+### 👋 Heyy 
 
 I'm Andrei, AI/ML Engineer and Data Scientist.
 
