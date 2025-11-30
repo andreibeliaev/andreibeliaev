@@ -1,6 +1,6 @@
 ### 👋 Heyy 
 
-I'm Andrei, AI/ML Engineer and Data Scientist.
+I'm Andrei.
 
 Find more info about me on [https://andreibeliaev.github.io/](https://andreibeliaev.github.io/) 🤓
 <!--
